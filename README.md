@@ -4,4 +4,5 @@ Repositório para atividades desta disciplina
 https://canva.link/8n08fjz6ci5om28
 <img width="1090" height="691" alt="image" src="https://github.com/user-attachments/assets/cf72e6d3-add4-48f5-8b57-09c27a2bfeac" />
 <img width="1074" height="358" alt="image" src="https://github.com/user-attachments/assets/a246ed8d-806c-4488-a67a-b9ba084747b5" />
+<img width="1361" height="689" alt="power bi" src="https://github.com/user-attachments/assets/17d3582f-e8a7-417c-a8c9-53184109e15b" />
 
